@@ -1,0 +1,146 @@
+@media screen and (max-width: 420px) 
+{
+    .div1
+    {
+        color: darkblue;
+        margin: 20px 80px;
+        font-size: 40px;
+        font-family: sans-serif;
+    }
+
+    .div2
+    {
+        color: white;
+        border: 1px solid black;
+        margin: 10px 1px 1px 10px;
+        padding: 40px;
+        padding-right: 130px;
+        width: 100px;
+        height: 150px;
+        background-color: #1b4fb1;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: sans-serif;
+    }
+
+    .div2-1
+    {
+        margin: 10px 0px 10px 0px;
+    }
+
+    .div2-2
+    {
+        margin: 10px 0px 5px 0px;
+    }
+
+    .div3
+    {
+        margin: 8px 0px 0px 0px;
+        font-family: sans-serif;
+        cursor: pointer;
+    }
+
+    .div3-1
+    {
+        background-color: #4eb151;
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        border-radius: 5px;
+    }
+
+    .div3-1:hover
+    {
+        opacity: 0.8;
+    }
+
+    .div4
+    {
+        background-color:#1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+
+    .div4-1
+    {
+        margin-right: 20px;
+        margin-top: 30px;
+        color: white;
+        float: right;
+    }
+}
+
+.div1
+{
+    color: darkblue;
+    margin: 20px 80px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.div2
+{
+    color: white;
+    border: 1px solid black;
+    margin: 10px 1px 1px 10px;
+    padding: 40px;
+    padding-right: 130px;
+    width: 100px;
+    height: 150px;
+    background-color: #1b4fb1;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+.div2-1
+{
+    margin: 10px 0px 10px 0px;
+}
+
+.div2-2
+{
+    margin: 10px 0px 5px 0px;
+}
+
+.div3
+{
+    margin: 8px 0px 0px 0px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.div3-1
+{
+    background-color: #4eb151;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+
+.div3-1:hover
+{
+    opacity: 0.8;
+}
+
+.div4
+{
+    background-color:#1b4fb1;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.div4-1
+{
+    margin-right: 20px;
+    margin-top: 30px;
+    color: white;
+    float: right;
+}

@@ -1,0 +1,287 @@
+@media screen and (max-width: 420px) 
+{
+    .div1
+    {
+        color: blue;
+        margin: 20px;
+        font-family: sans-serif;
+    }
+
+    .div2
+    {
+        color: blue;
+        margin: 20px;
+        font-family: sans-serif;
+    }
+
+    .div3
+    {
+        color: blue;
+        margin: 20px;
+        margin-bottom: 10px;
+        font-family: sans-serif;
+    }
+
+    .div4
+    {
+        color: green;
+        margin-left: 20px;
+        font-family: sans-serif;
+    }
+
+    .div5
+    {
+        margin: 20px 20px 20px 20px;
+        display: flex;
+        font-family: sans-serif;
+    }
+
+    .div6
+    {
+        margin-left: 20px;
+    }
+
+    .div6-1
+    {
+        background-color: #4eb151;
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        font-family: sans-serif;
+        border-radius: 5px;
+    }
+
+    .div6-1:hover
+    {
+        opacity: 0.8;
+    }
+
+    .div7
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+
+    .div8
+    {
+        height: 110px;
+        width: 100%;
+        background-color: #1b4fb1;
+    }
+
+    .div9
+    {
+        border: 1px solid green;
+        padding-left: 10px;
+        font-family: sans-serif;
+    }
+
+    .div10
+    {
+        color: white;
+        font-size: 30px;
+        padding: 10px 20px;
+        font-family: sans-serif;
+    }
+
+    .div11
+    {
+        margin-left: 20px;
+    }
+
+    progress 
+    {
+        color: #4eb151;
+        opacity: 0.7;
+        width: 200px;
+        height: 25px;
+        border: 1px solid #1b4fb1;
+    }
+
+    progress [value]
+    {
+        width: 200px;
+        height: 25px;
+    }
+
+    progress[value]::-webkit-progress-bar 
+    {
+        background-color: white;
+        border-radius: 30px;
+    }
+
+    .div12
+    {
+        border: 1px solid green;
+        margin-top: 5px;
+        padding-left: 10px;
+        font-family: sans-serif;
+    }
+
+    .div13
+    {
+        border: 1px solid green;
+        margin-top: 5px;
+        padding-left: 10px;
+        font-family: sans-serif;
+    }
+
+    a:hover 
+    {
+        color: green;
+    }
+}
+@media (max-height: 648px) 
+{
+    .div7
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: static; 
+        /*position: fixed;*/
+        left: 0;
+        bottom: 0;
+    }
+}
+.div1
+{
+    color: blue;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.div2
+{
+    color: blue;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.div3
+{
+    color: blue;
+    margin: 20px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+
+.div4
+{
+    color: green;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+.div5
+{
+    margin: 20px 20px 20px 20px;
+    display: flex;
+    font-family: sans-serif;
+}
+
+.div6
+{
+    margin-left: 20px;
+}
+
+.div6-1
+{
+    background-color: #4eb151;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+.div6-1:hover
+{
+    opacity: 0.8;
+}
+
+@media screen and (min-width: 420px)
+{
+    .div7
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+}
+
+.div8
+{
+    height: 110px;
+    width: 100%;
+    background-color: #1b4fb1;
+}
+
+.div9
+{
+    border: 1px solid green;
+    padding-left: 10px;
+    font-family: sans-serif;
+}
+
+.div10
+{
+    color: white;
+    font-size: 30px;
+    padding: 10px 20px;
+    font-family: sans-serif;
+}
+
+.div11
+{
+    margin-left: 20px;
+}
+
+progress 
+{
+    color: #4eb151;
+    opacity: 0.7;
+    width: 200px;
+    height: 25px;
+    border: 1px solid #1b4fb1;
+}
+
+progress [value]
+{
+    width: 200px;
+    height: 25px;
+}
+
+progress[value]::-webkit-progress-bar 
+{
+    background-color: white;
+    border-radius: 30px;
+}
+
+.div12
+{
+    border: 1px solid green;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: sans-serif;
+}
+
+.div13
+{
+    border: 1px solid green;
+    margin-top: 5px;
+    padding-left: 10px;
+    font-family: sans-serif;
+}
+
+a:hover 
+{
+    color: green;
+}

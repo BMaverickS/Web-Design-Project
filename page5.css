@@ -1,0 +1,203 @@
+@media screen and (max-width: 420px) 
+{
+    .div1
+    {
+        border: 1px solid blue;
+        padding: 10px;
+        font-family: sans-serif;
+    }
+
+    .div1-1
+    {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .div2
+    {
+        border: 1px solid blue;
+        padding: 10px;
+        font-family: sans-serif;
+    }
+
+    .div2-1
+    {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .div3
+    {
+        border: 1px solid blue;
+        padding: 10px;
+        font-family: sans-serif;
+    }
+
+    .div3-1
+    {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .div4
+    {
+        margin-left: 20px;
+        margin-top: 10px;;
+    }
+
+    .div4-1
+    {
+        background-color: #4eb151;
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        font-family: sans-serif;
+        border-radius: 5px;
+    }
+
+    .div4-1:hover
+    {
+        opacity: 0.8;
+    }
+
+    .div5
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        left: 0;
+        bottom: 0;
+    }
+
+    .div6
+    {
+        height: 120px;
+        width: 100%;
+        background-color: #1b4fb1;
+        margin-bottom: 10px;
+    }
+
+    .div7
+    {
+        color: white;
+        font-size: 30px;
+        padding: 10px 20px;
+        font-family: sans-serif;
+    }
+
+    .div8
+    {
+        align-content: flex-start;
+        align-items: flex-start;
+    }
+}
+
+@media (max-height: 420px)
+{
+    .div5
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: static; 
+        /*position: fixed;*/
+        left: 0;
+        bottom: 0;
+    }
+}
+
+
+.div1
+{
+    border: 1px solid blue;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.div1-1
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.div2
+{
+    border: 1px solid blue;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.div2-1
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.div3
+{
+    border: 1px solid blue;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.div3-1
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.div4
+{
+    margin-left: 20px;
+    margin-top: 10px;;
+}
+
+.div4-1
+{
+    background-color: #4eb151;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+.div4-1:hover
+{
+    opacity: 0.8;
+}
+
+@media screen and (min-width: 420px)
+{
+    .div5
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+}
+
+.div6
+{
+    height: 120px;
+    width: 100%;
+    background-color: #1b4fb1;
+    margin-bottom: 10px;
+}
+
+.div7
+{
+    color: white;
+    font-size: 30px;
+    padding: 10px 20px;
+    font-family: sans-serif;
+}
+
+.div8
+{
+    align-content: flex-start;
+    align-items: flex-start;
+}

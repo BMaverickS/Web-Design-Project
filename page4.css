@@ -1,0 +1,161 @@
+@media screen and (max-width: 420px) 
+{
+    .div1
+    {
+        margin: 20px;
+        font-family: sans-serif;
+    }
+
+    .div2
+    {
+        margin: 20px;
+        font-family: sans-serif;
+    }
+
+    .div3
+    {
+        margin: 20px;
+        font-family: sans-serif;
+    }
+
+    .div4
+    {
+        display: flex;
+        margin: 20px;
+    }
+
+    .div4-1
+    {
+        background-color: #4eb151;
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        font-family: sans-serif;
+        border-radius: 5px;
+        margin-right: 10px;
+    }
+
+    .div4-1:hover
+    {
+        opacity: 0.8;
+    }
+
+    .div5-1:hover
+    {
+        opacity: 0.8;
+    }
+
+    .div5-1
+    {
+        background-color: #4eb151;
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        font-family: sans-serif;
+        border-radius: 5px;
+    }
+
+    .div6
+    {
+        background-color: #1b4fb1;
+        height: 70px;
+        width: 100%;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+    }
+
+    .div7
+    {
+        height: 120px;
+        width: 100%;
+        background-color: #1b4fb1;
+    }
+
+    .div8
+    {
+        color: white;
+        font-size: 30px;
+        padding: 10px 20px;
+        font-family: sans-serif;
+    }
+}   
+.div1
+{
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.div2
+{
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.div3
+{
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.div4
+{
+    display: flex;
+    margin: 20px;
+}
+
+.div4-1
+{
+    background-color: #4eb151;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.div4-1:hover
+{
+    opacity: 0.8;
+}
+
+.div5-1:hover
+{
+    opacity: 0.8;
+}
+
+.div5-1
+{
+    background-color: #4eb151;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    font-family: sans-serif;
+    border-radius: 5px;
+}
+
+.div6
+{
+    background-color: #1b4fb1;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+.div7
+{
+    height: 120px;
+    width: 100%;
+    background-color: #1b4fb1;
+}
+
+.div8
+{
+    color: white;
+    font-size: 30px;
+    padding: 10px 20px;
+    font-family: sans-serif;
+}
